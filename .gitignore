@@ -1,4 +1,8 @@
 the-joke-the-reviewer-laughs-at-20261121-0329-kit/
 kit.tar.gz
+rebuild/
+muse-usage.jsonl
+muse-usage-rebuild.jsonl
+transcripts.tar.gz
 __pycache__/
 *.pyc
